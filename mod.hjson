@@ -1,8 +1,8 @@
-displayName: "Mapping Utilities"
+displayName: "Mapping Utilities Ayam"
 
-name: "mapping-utilities"
+name: "mapping-utilities_mimitvripple"
 
-author: "ApsZoldat"
+author: "mimitvripple"
 
 main: "mu.MapUtilitiesMod"
 
@@ -20,16 +20,17 @@ description:
     - More Rules Available
     - Planet Background Editing
 
-
+    Map
+    - Map by Planet you?
     Check README.md in GitHub repo for more detailed information about the mod
 
     ! Work In Progress !
     More map making tools will be added in future
     '''
 
-repo: "ApsZoldat/MindustryMappingUtilities"
+repo: "mimitvripple/MindustryMappingUtilities_19"
 
-version: 1.4
+version: 1.4b
 
 minGameVersion: 145
 
